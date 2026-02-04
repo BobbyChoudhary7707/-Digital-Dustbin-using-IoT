@@ -45,6 +45,8 @@ This project aims to improve waste management efficiency, minimize manual interv
 ✔ Hygienic and Safe Operation  
 ✔ Environment-Friendly Solution  
 ✔ Reduced Human Effort 
+
+
 ![Uploading Gemini_Generated_Image_i0928wi0928wi092.png…]()
 
 ![Uploading Gemini_Generated_Image_5z6eej5z6eej5z6e.png…]()
